@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Stephanie Jung"
   avatar : "/assets/images/neon_steph.jpeg"
-  bio    : "Data scientist passionate about machine learning"
+  bio    : "Data Science x UX Design"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
