@@ -27,6 +27,8 @@ search: true
 
 # Custom settings
 words_per_minute: 265
+teaser: /assets/images/neon_steph.jpeg
+og_image: /assets/images/neon_steph.jpeg
 
 # Build settings
 markdown: kramdown
